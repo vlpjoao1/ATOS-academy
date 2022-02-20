@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c34e618b-0754-47e7-99aa-5b04d50d8b63": {
+      "ProjectGuid": "c34e618b-0754-47e7-99aa-5b04d50d8b63",
+      "DisplayName": "OPPConsExJoao",
+      "ColorIndex": 0
+    },
+    "84297195-e174-41b6-be0b-e07163e34752": {
+      "ProjectGuid": "84297195-e174-41b6-be0b-e07163e34752",
+      "DisplayName": "ManageSound",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

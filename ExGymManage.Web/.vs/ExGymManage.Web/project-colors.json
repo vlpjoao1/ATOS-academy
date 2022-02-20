@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ce8b482-f9d6-4dd4-b8d2-43bdae7146c7": {
+      "ProjectGuid": "6ce8b482-f9d6-4dd4-b8d2-43bdae7146c7",
+      "DisplayName": "ExGymManage.Web",
+      "ColorIndex": 0
+    },
+    "4f3b12e6-f11b-4a13-857a-743761090e04": {
+      "ProjectGuid": "4f3b12e6-f11b-4a13-857a-743761090e04",
+      "DisplayName": "DataTypes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
