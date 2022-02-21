@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf291ac1-8ec5-4875-8266-032e2cee0b66": {
+      "ProjectGuid": "bf291ac1-8ec5-4875-8266-032e2cee0b66",
+      "DisplayName": "ExDataTypes",
+      "ColorIndex": 0
+    },
+    "7a58294f-4133-4c46-a4aa-a8c49c5f97a5": {
+      "ProjectGuid": "7a58294f-4133-4c46-a4aa-a8c49c5f97a5",
+      "DisplayName": "ExDataTypes.Web",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

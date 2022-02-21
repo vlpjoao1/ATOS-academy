@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esdec\\source\\repos\\ExGymManage.Web\\ExGymManage.Web\\ExGymManage.Web.csproj",
+      "projectUniqueName": "C:\\Users\\esdec\\source\\repos\\Excercises\\ExGymManage.Web\\ExGymManage.Web\\ExGymManage.Web.csproj",
       "projectName": "ExGymManage.Web",
-      "projectPath": "C:\\Users\\esdec\\source\\repos\\ExGymManage.Web\\ExGymManage.Web\\ExGymManage.Web.csproj",
+      "projectPath": "C:\\Users\\esdec\\source\\repos\\Excercises\\ExGymManage.Web\\ExGymManage.Web\\ExGymManage.Web.csproj",
       "packagesPath": "C:\\Users\\esdec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esdec\\source\\repos\\ExGymManage.Web\\ExGymManage.Web\\obj\\",
+      "outputPath": "C:\\Users\\esdec\\source\\repos\\Excercises\\ExGymManage.Web\\ExGymManage.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esdec\\AppData\\Roaming\\NuGet\\NuGet.Config",

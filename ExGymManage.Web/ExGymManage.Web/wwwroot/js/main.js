@@ -8,12 +8,15 @@
     } else if (entrada.name == "salida") {
         text.innerHTML += "Salida registrada para el miembro  <b>" + entrada.value + "</b>" + " a la hora: <b>" + moment(new Date()).format('hh:mm:ss') + "</b>";
     }
+    if (entrada.value != "") {
+        $("#exampleModal").show();
+        setTimeout(function () {
+            $("#exampleModal").hide();
+        }, 3000);
+    } else {
+        alert("El formulario no debe estar vacío.");
+    }
 
-    $("#exampleModal").show();
-
-    setTimeout(function () {
-        $("#exampleModal").hide();
-    }, 3000);
 }
 
 document.querySelector('#register').addEventListener("click", function () {

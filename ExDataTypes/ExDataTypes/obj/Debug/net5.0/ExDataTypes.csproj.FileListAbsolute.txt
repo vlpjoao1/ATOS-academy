@@ -1,0 +1,16 @@
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\bin\Debug\net5.0\ExDataTypes.exe
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\bin\Debug\net5.0\ExDataTypes.deps.json
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\bin\Debug\net5.0\ExDataTypes.runtimeconfig.json
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\bin\Debug\net5.0\ExDataTypes.runtimeconfig.dev.json
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\bin\Debug\net5.0\ExDataTypes.dll
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\bin\Debug\net5.0\ref\ExDataTypes.dll
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\bin\Debug\net5.0\ExDataTypes.pdb
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ExDataTypes.csproj.AssemblyReference.cache
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ExDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ExDataTypes.AssemblyInfoInputs.cache
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ExDataTypes.AssemblyInfo.cs
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ExDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ExDataTypes.dll
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ref\ExDataTypes.dll
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ExDataTypes.pdb
+C:\Users\esdec\source\repos\ExDataTypes\ExDataTypes\obj\Debug\net5.0\ExDataTypes.genruntimeconfig.cache

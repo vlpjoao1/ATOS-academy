@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n4CK7ECvzkXHiZZkiVzcGK0A4KeH/tE19OXEsJnzE102HvonY97s4PKbvKUXMkJ1Hjy94obN9dY6MR21s021PA==",
+  "dgSpecHash": "lfAGCTliI16wDVlxmuFAjYayQlXgkmhfJIQBpw6qy/75cC0wTjtNCDfMfjSJqYauyNEXd+GP2t5O+uNpG52FPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esdec\\source\\repos\\ExGymManage.Web\\ExGymManage.Web\\ExGymManage.Web.csproj",
+  "projectFilePath": "C:\\Users\\esdec\\source\\repos\\Excercises\\ExGymManage.Web\\ExGymManage.Web\\ExGymManage.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esdec\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.10\\microsoft.aspnetcore.mvc.razor.extensions.5.0.10.nupkg.sha512",
     "C:\\Users\\esdec\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.10\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.10.nupkg.sha512",
