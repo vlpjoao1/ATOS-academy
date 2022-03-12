@@ -702,3 +702,16 @@ C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug
 C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\ref\ExGymManage.Web.dll
 C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\ExGymManage.Web.pdb
 C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\ExGymManage.Web.genruntimeconfig.cache
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\bin\Debug\net5.0\GymManager.AplicationServices.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\bin\Debug\net5.0\GymManager.AplicationServices.pdb
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\Razor\Views\MembershipType\Index.cshtml.g.cs
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\Razor\Views\Shared\_MembershipList.cshtml.g.cs
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\Razor\Views\MembershipType\Create.cshtml.g.cs
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\ExGymManage.Web\obj\Debug\net5.0\Razor\Views\MembershipType\Edit.cshtml.g.cs

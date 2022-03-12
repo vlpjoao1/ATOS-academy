@@ -1,3 +1,4 @@
+using GymManager.AplicationServices.Memberships;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -17,6 +18,8 @@ namespace ExGymManage.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews().AddRazorRuntimeCompilation(); ;
+
+            services.AddTransient<IMembershipAppService, MembershipAppService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -32,7 +35,6 @@ namespace ExGymManage.Web
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
-                endpoints.MapControllerRoute("attendance", "{controller=Attendance}/{action=Index}/{id?}");
             });
         }
     }

@@ -2,116 +2,47 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
-<!doctype html>
-<html lang="en" class="h-100">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.88.1">
-    
-    <!-- Title -->
-    <title>Member In!</title>
-
-    <link href="~/bootstrap5/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="shortcut icon" href="~/resources/GymManageIco.ico" type="image/x-icon">
-    <link href="~/css/main.css" rel="stylesheet">
-    <meta name="theme-color" content="#7952b3">
-    <style>
-        .bd-placeholder-img {
-            font-size: 1.125rem;
-            text-anchor: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            user-select: none;
-        }
-        @@media (min-width: 768px) {
-            .bd-placeholder-img-lg {
-                font-size: 3.5rem;
-            }
-        }
-        main > .container {
-            padding: 60px 15px 0;
-        }
-    </style>
-</head>
-<body class="d-flex flex-column h-100">
-    <header>
-        <!-- Fixed navbar -->
-        <nav class="navbar navbar-expand-md navbar-dark fixed-top">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="/"><img src="~/resources/GymManageLogo.png" width="30" height="24"> GYM</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                        <li class="nav-item">
-                            <a class="nav-link text-light" aria-current="page" href="/">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-light" href="/Attendance/MemberIn/">MemberIn</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-light" href="/Attendance/MemberOut/">MemberOut</a>
-                        </li>
-                    </ul>
-                    <form class="d-flex">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <!-- Begin page content -->
-    <main class="flex-shrink-0">
-        <div class="container justify-content-center">
-            <div class="container col-4">
-                <br />
-                <form>
-                  <div class="form-group">
-                    <label for="exampleInputEmail1">Member In:</label>
-                    <input type="text" class="form-control" id="inputMember" placeholder="Enter Identifier" name="entrada" />
-                  </div>
-                  <br />
-                </form>
-                  <div class="container  col-12">
-                      <center>
-                          <button type="button" class="btn btn-primary"  id="register"> Register </button>
-                      </center>
-                    
-                  </div>
-            </div>
-        </div>
-    </main>
-
-    <!-- Modal -->
-    <div class="modal" id="exampleModal" >
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">Member Register</h5>
-            <button type="button" class="btn-close" id="btn-close"></button>
-          </div>
-          <div class="modal-body">
-            <p id="text-returned"></p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <footer class="footer mt-auto py-3 bg-light">
-        <div class="container">
-            <span class="text-muted">Place sticky footer content here.</span>
-        </div>
-    </footer>
+@section scripts{
     <script src="~/js/jquery.js"></script>
     <script src="~/bootstrap5/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/moment.js"></script>
     <script src="~/js/main.js"></script>
-</body>
+}
+<!-- Content -->
+<main class="flex-shrink-0">
+    <div class="container justify-content-center">
+        <div class="container col-4">
+            <br />
+            <form>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Member In:</label>
+                    <input type="text" class="form-control" id="inputMember" placeholder="Enter Identifier" name="entrada" />
+                </div>
+                <br />
+            </form>
+            <div class="container  col-12">
+                <center>
+                    <button type="button" class="btn btn-primary" id="register"> Register </button>
+                </center>
 
-</html>
+            </div>
+        </div>
+    </div>
+</main>
+
+<!-- Modal -->
+<div class="modal" id="exampleModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Member Register</h5>
+                <button type="button" class="btn-close" id="btn-close"></button>
+            </div>
+            <div class="modal-body">
+                <p id="text-returned"></p>
+            </div>
+        </div>
+    </div>
+</div>

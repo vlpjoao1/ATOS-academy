@@ -1,0 +1,32 @@
+﻿@model GymManager.Core.Memberships.Membership
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section scripts{
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+}
+<div class="container">
+    <h3 class="mt-5">Membership Edition</h3>
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name of Membership</label>
+            <input type="text" class="form-control" asp-for="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Cost" class="form-label">Cost</label>
+            <input type="number" class="form-control" asp-for="Cost" />
+            <span asp-validation-for="Cost" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Duration" class="form-label">Duration</label>
+            <input type="number" class="form-control" asp-for="Duration" />
+            <span asp-validation-for="Duration" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary mb-3">Submit</button>
+    </form>
+</div>

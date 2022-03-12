@@ -1,0 +1,15 @@
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.AssemblyReference.cache
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.AssemblyInfoInputs.cache
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.AssemblyInfo.cs
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.deps.json
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\bin\Debug\net5.0\ref\GymManager.AplicationServices.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.AplicationServices.pdb
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.csproj.CopyComplete
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\ref\GymManager.AplicationServices.dll
+C:\Users\esdec\source\repos\Excercises\ExGymManage.Web\GymManager.AplicationServices\obj\Debug\net5.0\GymManager.AplicationServices.pdb
